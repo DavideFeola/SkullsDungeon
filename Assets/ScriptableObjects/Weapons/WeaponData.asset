@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc5d0bfebe810a542a9c54a332a1286f, type: 3}
+  m_Name: WeaponData
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  displayName: Weapon
+  projectilePrefab: {fileID: 1833389998320926572, guid: 891756e84eb2a1f47bf6ebd8c6de6516, type: 3}
+  damage: 1
+  fireRate: 5
+  projectileSpeed: 12
+  lifeTime: 2
+  projectilesPerShot: 1
+  spread: 0
+  pierce: 0
+  useAmmo: 1
+  startingAmmo: 100
+  maxAmmo: 200
+  currentAmmo: 50

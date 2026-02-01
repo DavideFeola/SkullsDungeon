@@ -1,0 +1,4 @@
+repository "giocoMobile/giocoMobile@1375858753191@cloud"
+  path "/"
+    br "/main"
+    co "/main"
